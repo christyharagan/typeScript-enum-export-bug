@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "module": "commonjs",
+        "rootDir": ".",
+        "sourceMap": false,
+        "target": "es5",
+        "outDir": "."
+    },
+    "formatCodeOptions": {
+        "indentSize": 2,
+        "tabSize": 2
+    },
+    "compileOnSave": true,
+    "files": [
+        "index.ts"
+    ]
+}

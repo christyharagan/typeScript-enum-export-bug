@@ -1,0 +1,10 @@
+{
+  "name": "c",
+  "version": "1",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "dependencies": {
+    "a": "1",
+    "b": "1"
+  }
+}
